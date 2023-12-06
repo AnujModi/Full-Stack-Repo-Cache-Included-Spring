@@ -9,6 +9,7 @@ There will be an update on Assumptions taken during the completion of the task w
 ## Comments
 for one, I started with the spring boot initializer at start.spring.io, and chose the basic dependencies: Spring Web, Spring Data JPA, and MySQL Driver.
 wrote a couple of assumptions to go together with why choose gradle over maven, and why i would assume something like that...
+I will be using Intellij which is already pre-installed on my machine, and i have a couple of plugins i already have pre-loaded (json viewer, gradle, lombok, spring framework, docker, git etc.)
 
 
 <a name="assumptions"></a>
