@@ -1,0 +1,8 @@
+Intellij Download:
+https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
+
+Postman Download:
+https://dl.pstmn.io/download/latest/win64
+
+MySQL Download:
+https://dev.mysql.com/downloads/installer/

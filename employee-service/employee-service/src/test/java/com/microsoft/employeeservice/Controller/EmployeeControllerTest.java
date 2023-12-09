@@ -2,8 +2,6 @@ package com.microsoft.employeeservice.Controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.microsoft.employeeservice.Entity.Employee;
-import com.microsoft.employeeservice.Repo.EmployeeRepository;
-import com.microsoft.employeeservice.Services.EmployeeService;
 import jakarta.transaction.Transactional;
 import org.junit.Assert;
 import org.junit.Test;
