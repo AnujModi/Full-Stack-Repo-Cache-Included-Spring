@@ -1,5 +1,4 @@
-# Microsoft-assessment
-Microsoft take-home exam, JobID:1601528 Rivera.Emanuel and v-smithstacy<p>
+# Full Stack Sample Repo Spring
 The basic steps here are to download the project as a zip file, unzip it on your computer, and follow the videos/instructions attached.
 
 This will start with an in-line comment subject to change in the future depending on additional tasks, change in tasks, additional info obtained, connectivity with the database, etc., which will give the reader an overview of how I attempted the task, what was on my mind when doing the task, how I approached it, my logic, why I did something's over the other, and what was my approach at solving the task.<br>
@@ -53,7 +52,7 @@ This is an important assumption because if I were to assume that whatever I am t
 ## Section 1<br>
 Setting Up Database:<br>
 Usage of MySQL.<br>
-Created Schema employee-microsoft.<br>
+Created Schema employee.<br>
 Created table employee.<br>
 Associated columns like ID, Name, Role, Reports To, Salary, Department, IsActive. Additional columns/tables can be added as required by the task. For the current task of just showcasing CRUD operations, this one table is sufficient.<br>
 Basic Primary key, not null, unique constraints added, types of columns, etc. are the basics and added as per my discretion.<br><p>
